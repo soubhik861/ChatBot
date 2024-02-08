@@ -1,0 +1,1924 @@
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 988-561-311
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 988-561-311
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:40:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:40:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:40:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:41:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:41:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:41:58] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 988-561-311
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:43:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:44:07] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:44:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:44:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:45:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:45:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:45:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:47:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:50:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:51:09] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:51:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 19:51:55] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:07] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:07] "[33mGET /Logo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:10] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:10] "[33mGET /Logo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:11] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:51:11] "[33mGET /Logo.png HTTP/1.1[0m" 404 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:14] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:14] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:18] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jan/2024 23:59:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:00:02] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:00:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:00:31] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:04:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:04:58] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:04:59] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:01] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:05:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:06:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:06:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:06:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 00:06:31] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:18] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:18] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:22] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:30:46] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:39] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:42] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:33:45] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:30] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:32] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:35:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:19] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:22] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:31] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:34] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:36:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:37:02] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:37:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:37:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:37:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:38:23] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:23] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:28] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:57:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 10:58:57] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:08] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:56] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:00:59] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:46] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:54] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:01:58] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:05:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:05:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:05:08] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 11:05:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:08] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:08] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:10] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:32:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:33:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:33:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:33:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:34:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:34:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:34:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:35:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:35:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:35:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:35:40] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:35:59] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:36:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:36:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:36:15] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 18:36:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:00] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:00] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:03] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:03] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:06:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:07:07] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:07:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:49] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:49] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:51] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:21:57] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:22:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:22:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:22:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:23:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:23:09] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:23:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:24:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:24:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:24:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:25:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:25:46] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:25:53] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:26:00] "POST /get_response HTTP/1.1" 200 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:34] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:34] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:35] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:30:45] "POST /get_response HTTP/1.1" 200 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:23] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:23] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:25] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:38:47] "POST /get_response HTTP/1.1" 200 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:26] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:27] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:31] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:39:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:40:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:40:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:40:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:40:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:41:05] "POST /get_response HTTP/1.1" 200 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:14] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:16] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:43:53] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:44:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:44:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:44:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:44:51] "POST /get_response HTTP/1.1" 200 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:20] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:21] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:22] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:51:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:52:09] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:52:17] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:52:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:52:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:52:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:53:07] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:53:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:53:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:53:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:53:40] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:54:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:54:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:54:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:54:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:54:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:55:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:55:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:55:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:55:15] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 21:55:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:h5py._conv:Creating converter from 3 to 5
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:11] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:15] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:43] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:50] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:03:57] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:32] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:32] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:45] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:46] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:04:56] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:03] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:03] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:54] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:05:54] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:06:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:06:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:06:01] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:06:01] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:03] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:03] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:05] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:07] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:36:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:37:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:37:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:37:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:37:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:37:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:38:05] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:07] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:08] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:11] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:48] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:48] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:50] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:45:50] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:10] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:10] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:13] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:32] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:32] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:34] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:46] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:46] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:49] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:50] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:46:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:15] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:18] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:41] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:47:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:11] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:56:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:57:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:57:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:57:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:57:59] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:58:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:58:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:58:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:58:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:58:57] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:59:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:59:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:59:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:59:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 22:59:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:00:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:00:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:00:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:00:43] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:00:58] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:02:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:02:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:03:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:03:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:03:43] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:06] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:07] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:08] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:09] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:15] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:21] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:29] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:09:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:37] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:37] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:39] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:39] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:42] "POST /get_response HTTP/1.1" 200 -
+ERROR:root:Error processing user message: in user code:
+
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, 25), found shape=(None, 20)
+
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:11:46] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:12] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:13] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:28:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:29:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:29:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:29:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:29:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:30:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:30:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:30:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:30:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:30:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:31:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:32:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:32:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:32:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:32:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:33:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:33:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:33:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:33:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:33:35] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:10] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:10] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:12] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:12] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:41:59] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:42:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:42:50] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:42:52] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:43:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:43:58] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:44:12] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:44:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:44:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:44:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:44:59] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:45:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:45:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:46:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:46:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:46:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:47:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:47:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:47:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:03] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:12] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:17] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:48:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:49:09] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:49:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:49:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:49:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:50:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:41] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:51:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:53:31] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:53:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2024 23:53:42] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:15] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:18] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:04:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:05:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:05:58] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:06:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:06:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug: * Detected change in 'D:\\Study Documents\\Lab Exam\\Minor Project\\ChatBot\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:24] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:24] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:27] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:12:29] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:15:28] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:15:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:15:28] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:17:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:17:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:17:27] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 00:17:27] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 10:39:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 10:39:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 10:39:40] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 10:39:40] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:35:44] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:35:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:35:45] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:38:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:38:05] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:38:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:38:05] "GET /static/favicon.ico HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:17] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:17] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:28] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:39:28] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:42:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:42:00] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:42:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:42:00] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:46:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:46:12] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:46:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:46:13] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:48:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:48:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:48:36] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:48:37] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:25] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:25] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:51] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:49:51] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:01] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:01] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:09] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:09] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:28] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:50:29] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:12] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:44] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:51:45] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:55:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:55:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:55:31] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 11:55:31] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:42] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:45] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:07:56] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:08:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:08:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:08:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:08:29] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:42] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:42] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:48] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:14:50] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:39] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:40] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:47] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:18:53] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:15] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:17] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:19:18] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:05] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:06] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:22] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:22] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:25] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:20:36] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:25:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:25:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:25:11] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:25:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:27:24] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:27:24] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:27:28] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:34:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:34:27] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:34:27] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 12:34:27] "GET /static/favicon.ico HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Rishi\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-175-453
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:33] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:33] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:34] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:40] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:49:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:21] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:21] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:22] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:23] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:51:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:17] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:17] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:17] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:19] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:24] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:52:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:41] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:41] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:44] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:53:53] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:00] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:00] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:00] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:02] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:03] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:13] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:55:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:17] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:43] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:50] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:50] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:55] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:56:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:57:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:57:59] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:57:59] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:58:00] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:58:01] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:58:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:58:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:58:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:05] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:05] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:05] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:10] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 13:59:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:26] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:26] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:26] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:28] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:00:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:38] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:38] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:38] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:40] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:40] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:44] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:01:57] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:19] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:27] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:36] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:02:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:23] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:23] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:23] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:25] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:26] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:45] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:04:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:03] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:03] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:03] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:05] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:30] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:30] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:31] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:33] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:48] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:48] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:48] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:50] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:05:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:06:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:06:56] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:06:56] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:06:57] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:00] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:58] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:58] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:07:58] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:01] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:17] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:18] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:18] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:20] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2024 14:08:21] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:39:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:39:42] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:39:42] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:39:42] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:41:19] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:41:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:41:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:41:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:41:51] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:00] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:16] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:30] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:33] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:42:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:43:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:43:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:43:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:43:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:44:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:44:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:14] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:14] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:15] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:18] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:18] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2024 16:45:23] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 390-417-092
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:29:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:29:50] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:29:50] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:29:51] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:30:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:30:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:30:52] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:30:52] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:42] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:47] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:31:47] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:32:05] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:32:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:33:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:34:21] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:34:43] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 14:34:54] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:12] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:42] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:48] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 17:14:56] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:39] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:39] "GET /static/Logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:40] "GET /static/favicon.ico HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:53] "GET /static/User.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:55:53] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:56:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:56:12] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:56:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:56:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:57:29] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:57:39] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:58:01] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:58:38] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:58:46] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:59:10] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Jan/2024 23:59:19] "POST /get_response HTTP/1.1" 200 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:52] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:52] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:58] "[36mGET /static/User.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:53:58] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:54:09] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:54:23] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:54:42] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:54:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:55:15] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:55:22] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:55:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:55:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:56:07] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:58:11] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:58:20] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 10:58:35] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:02:55] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:03:08] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:25:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:25:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:25:41] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:26:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:26:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:26:23] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:26:24] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:28:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:28:04] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:28:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:28:05] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\soubh\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\utils\tf_utils.py:229: The name tf.Dimension is deprecated. Please use tf.compat.v1.Dimension instead.
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-616-402
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:34:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:34:30] "[36mGET /static/Logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:34:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 11:34:31] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -

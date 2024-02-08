@@ -1,0 +1,594 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Is anyone there?",
+                "Hello",
+                "Hay",
+                "Greetings"
+            ],
+            "responses": [
+                "Hello",
+                "Hi",
+                "Hi there",
+                "Greetings! How can I assist you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Farewell",
+                "Take care"
+            ],
+            "responses": [
+                "See you later",
+                "Have a nice day",
+                "Bye! Come back again",
+                "Farewell! If you need assistance, feel free to return."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thanks for the help",
+                "Appreciate it"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "You're most welcome!",
+                "Glad I could assist you"
+            ]
+        },
+        {
+            "tag": "about",
+            "patterns": [
+                "Who are you?",
+                "What are you?",
+                "Who you are?",
+                "Tell me about yourself"
+            ],
+            "responses": [
+                "I'm Sana, your bot assistant",
+                "I'm Sana, an Artificial Intelligent bot",
+                "You can call me Sana. I'm here to assist you."
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name",
+                "What should I call you",
+                "What's your name?",
+                "Can I know your name?"
+            ],
+            "responses": [
+                "You can call me Sana.",
+                "I'm Sana!",
+                "Just call me as Sana",
+                "My name is Sana. How can I help you today?"
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "Could you help me?",
+                "Give me a hand please",
+                "Can you help?",
+                "What can you do for me?",
+                "I need a support",
+                "I need a help",
+                "Support me please"
+            ],
+            "responses": [
+                "Tell me how can assist you",
+                "Tell me your problem to assist you",
+                "Yes Sure, How can I support you",
+                "I'm here to help. What do you need assistance with?"
+            ]
+        },
+        {
+            "tag": "createaccount",
+            "patterns": [
+                "I need to create a new account",
+                "How to open a new account",
+                "I want to create an account",
+                "Can you create an account for me",
+                "How to open a new account",
+                "Account registration"
+            ],
+            "responses": [
+                "You don't need to create an account to use this service.",
+                "I cannot open an account for you, but I can guide you on how to open one. If you're talking about creating an account to use this chatbot, there is no need for it as you can use this chatbot without creating any account or signing up."
+            ]
+        },
+        {
+            "tag": "complaint",
+            "patterns": [
+                "I have a complaint",
+                "I want to raise a complaint",
+                "There is a complaint about a service",
+                "Customer complaint"
+            ],
+            "responses": [
+                "Please provide us with your complaint to assist you",
+                "Please mention your complaint. We apologize for any inconvenience caused."
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "What's the weather like today?",
+                "Tell me the weather forecast",
+                "Is it going to rain tomorrow?",
+                "How's the weather?",
+                "Weather update"
+            ],
+            "responses": [
+                "I'm sorry, I don't have real-time weather information. You can check a weather website or app for the latest updates."
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Tell me a joke",
+                "Give me a good laugh",
+                "Share a funny story",
+                "Do you know any jokes?",
+                "Joke of the day"
+            ],
+            "responses": [
+                "Sure, here's one: Why don't scientists trust atoms? Because they make up everything!",
+                "Why did the computer go to therapy? It had too many bytes of emotional baggage!"
+            ]
+        },
+        {
+            "tag": "techsupport",
+            "patterns": [
+                "I'm having trouble with my computer",
+                "My phone isn't working",
+                "Can you help with tech issues?",
+                "Technical support needed",
+                "Computer problem"
+            ],
+            "responses": [
+                "I'm not a tech expert, but I can try to help. What specific issue are you facing?",
+                "Technical issues can be challenging. Let me know the problem, and I'll do my best to assist you."
+            ]
+        },
+        {
+            "tag": "inspiration",
+            "patterns": [
+                "I need some inspiration",
+                "Give me a motivational quote",
+                "Feeling down, inspire me",
+                "Motivate me",
+                "Inspire me"
+            ],
+            "responses": [
+                "Remember, success is not final, failure is not fatal: It is the courage to continue that counts.",
+                "The only way to do great work is to love what you do. - Steve Jobs"
+            ]
+        },
+        {
+            "tag": "learning",
+            "patterns": [
+                "How can I learn new skills?",
+                "Recommend online courses",
+                "I want to learn something new",
+                "Learning resources",
+                "Skill development"
+            ],
+            "responses": [
+                "There are many great online platforms like Coursera and Udacity. What specific skill are you interested in learning?",
+                "Learning is a lifelong journey. Check out platforms like Khan Academy or LinkedIn Learning for a variety of courses."
+            ]
+        },
+        {
+            "tag": "health",
+            "patterns": [
+                "How to stay healthy?",
+                "Give me health tips",
+                "Suggest a workout routine",
+                "Healthy living advice",
+                "Wellness tips"
+            ],
+            "responses": [
+                "Maintaining a balanced diet, regular exercise, and sufficient sleep are key to a healthy lifestyle.",
+                "Make sure to stay hydrated, eat a variety of nutritious foods, and engage in regular physical activity for a healthy life."
+            ]
+        },
+        {
+            "tag": "travel",
+            "patterns": [
+                "Recommend travel destinations",
+                "Best places to visit",
+                "Travel tips",
+                "Planning a trip, need advice",
+                "Travel recommendations"
+            ],
+            "responses": [
+                "If you love nature, consider visiting Banff National Park. For history enthusiasts, Rome is a fantastic destination.",
+                "Exploring new places is always exciting! Consider Kyoto for its rich cultural heritage or Santorini for breathtaking views."
+            ]
+        },
+        {
+            "tag": "coding",
+            "patterns": [
+                "Teach me coding",
+                "Coding tips for beginners",
+                "How to become a programmer",
+                "Coding resources",
+                "Programming advice"
+            ],
+            "responses": [
+                "Start with a beginner-friendly language like Python. Online platforms like Codecademy offer interactive coding lessons.",
+                "Coding is a valuable skill. Try websites like HackerRank or LeetCode to practice coding problems and enhance your skills."
+            ]
+        },
+        {
+            "tag": "future",
+            "patterns": [
+                "What does the future hold?",
+                "Predict the future",
+                "Tell me about the future",
+                "Future trends",
+                "Future predictions"
+            ],
+            "responses": [
+                "I'm not a fortune teller, but embracing change, continuous learning, and adaptability are key for a successful future.",
+                "The future is shaped by our actions today. Focus on personal growth, innovation, and building meaningful connections."
+            ]
+        },
+        {
+            "tag": "music",
+            "patterns": [
+                "Recommend a song",
+                "What's your favorite music?",
+                "Play some music",
+                "Any good playlists?",
+                "Music suggestions"
+            ],
+            "responses": [
+                "I enjoy all kinds of music. How about listening to 'Bohemian Rhapsody' by Queen?",
+                "Music is a universal language. Try 'Hotel California' by Eagles for a classic rock experience or 'Blinding Lights' by The Weeknd for a modern vibe."
+            ]
+        },
+        {
+            "tag": "film",
+            "patterns": [
+                "Recommend a film",
+                "What's your favorite film?",
+                "Play a film",
+                "Any good film suggestions?",
+                "film recommendations"
+            ],
+            "responses": [
+                "I enjoy a variety of films. How about watching 'The Shawshank Redemption' for a gripping drama or 'The Dark Knight' for a thrilling superhero experience?",
+                "films are a great way to unwind. Consider watching 'Inception' for mind-bending storytelling or 'Pulp Fiction' for a unique cinematic experience."
+            ]
+        },        
+        {
+            "tag": "philosophy",
+            "patterns": [
+                "What is the meaning of life?",
+                "Tell me a philosophical quote",
+                "Philosophical thoughts",
+                "Deep questions",
+                "Philosophy of life"
+            ],
+            "responses": [
+                "The meaning of life is a subjective concept. As Albert Einstein said, 'Imagination is more important than knowledge.'",
+                "Philosophy encourages us to ponder life's big questions. Here's a thought: 'The only true wisdom is in knowing you know nothing.' - Socrates"
+            ]
+        },
+        {
+            "tag": "dreams",
+            "patterns": [
+                "Do you dream?",
+                "Tell me about dreams",
+                "Lucid dreaming tips",
+                "Dream interpretation",
+                "Dream exploration"
+            ],
+            "responses": [
+                "I don't dream, but humans experience various dreams. Dreams can be a reflection of our thoughts and emotions.",
+                "Dreams are fascinating. They can be a window to the subconscious mind. If you have a specific dream, I can offer some interpretations."
+            ]
+        },
+        {
+            "tag": "pets",
+            "patterns": [
+                "Tell me about pets",
+                "Pet care tips",
+                "Best pets for apartments",
+                "Why do people love pets?",
+                "Pet adoption"
+            ],
+            "responses": [
+                "Pets bring joy and companionship. Dogs and cats are popular choices. Remember, they require love, care, and attention.",
+                "Pets are wonderful companions. Consider adopting from a shelter for a loving and loyal friend. Ensure you have the time and resources to care for them properly."
+            ]
+        },
+        {
+            "tag": "creativity",
+            "patterns": [
+                "How to boost creativity?",
+                "Creative ideas",
+                "Tell me a creative story",
+                "Artistic inspiration",
+                "Creativity tips"
+            ],
+            "responses": [
+                "Creativity can be sparked by trying new things, observing the world, and embracing curiosity. What creative project are you working on?",
+                "To boost creativity, explore different art forms, read diverse genres, and engage in activities that challenge your thinking. Share your creative ideas, and let's brainstorm together!"
+            ]
+        },
+        {
+            "tag": "science",
+            "patterns": [
+                "Tell me a science fact",
+                "Explain a scientific concept",
+                "Science news",
+                "Famous scientists",
+                "Science trivia"
+            ],
+            "responses": [
+                "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old.",
+                "Science is full of wonders! Consider this: A day on Venus is longer than a year on Venus due to its slow rotation."
+            ]
+        },
+        {
+            "tag": "virtualassistant",
+            "patterns": [
+                "How are virtual assistants created?",
+                "Tell me about AI",
+                "Virtual assistant development",
+                "How do you work?",
+                "AI assistant creation"
+            ],
+            "responses": [
+                "Virtual assistants like me are created using artificial intelligence algorithms. We learn from vast amounts of data to understand and generate human-like responses.",
+                "AI development involves training models with data to understand and respond to user inputs. Virtual assistants aim to provide helpful and human-like interactions through advanced algorithms and language processing."
+            ]
+        },
+        {
+            "tag": "cooking",
+            "patterns": [
+                "Share a recipe",
+                "Cooking tips",
+                "What's for dinner?",
+                "Healthy recipes",
+                "Cooking inspiration"
+            ],
+            "responses": [
+                "How about trying a simple stir-fry? Heat oil, toss in veggies and your choice of protein, add some sauce, and you have a quick and delicious meal!",
+                "Cooking can be fun and rewarding! Consider making a homemade pizza with your favorite toppings for a tasty and customizable dinner."
+            ]
+        },
+        {
+            "tag": "random_greeting",
+            "patterns": [
+                "Hey there!",
+                "Greetings!",
+                "What's up?",
+                "Hola",
+                "Good day",
+                "Howdy"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey!",
+                "Hi there!",
+                "Greetings! How can I assist you today?",
+                "Hola! How may I help you?"
+            ]
+        },
+        {
+            "tag": "random_thoughts",
+            "patterns": [
+                "Share a random fact",
+                "Tell me something interesting",
+                "Random thoughts",
+                "Fascinate me",
+                "Fun facts"
+            ],
+            "responses": [
+                "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old.",
+                "Here's a fun fact: The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion!"
+            ]
+        },
+        {
+            "tag": "user_interest",
+            "patterns": [
+                "What are your interests?",
+                "Tell me about your hobbies",
+                "What do you like?",
+                "Share your preferences",
+                "Any favorite activities?",
+                "Do you have hobbies?",
+                "Are there things you enjoy doing?",
+                "Tell me something you find interesting"
+            ],
+            "responses": [
+                "I'm just a machine learning model, so I don't have personal interests. But I'm here to help you with any questions or tasks!"
+            ]
+        },
+        {
+            "tag": "decision_making",
+            "patterns": [
+                "Help me make a decision",
+                "Should I do this or that?",
+                "Decision support",
+                "Give me advice",
+                "I'm struggling with a choice",
+                "What would you recommend?",
+                "Can you assist me in making a decision?",
+                "I need help deciding"
+            ],
+            "responses": [
+                "Making decisions can be tough. Consider the pros and cons, and trust your instincts. What decision are you facing?"
+            ]
+        },
+        {
+            "tag": "fun_activity",
+            "patterns": [
+                "Suggest a fun activity",
+                "How to have a good time?",
+                "Entertain me",
+                "Fun things to do",
+                "Any ideas for a good time?",
+                "I want to enjoy myself, what can I do?",
+                "Recommend something enjoyable",
+                "Tell me a fun way to spend my day"
+            ],
+            "responses": [
+                "How about trying a new board game with friends or taking a spontaneous day trip to explore your surroundings?"
+            ]
+        },
+        {
+            "tag": "future_prediction",
+            "patterns": [
+                "Predict the future",
+                "What does the future hold?",
+                "Future insights",
+                "Crystal ball",
+                "Can you foresee the future?",
+                "Tell me about upcoming events",
+                "What can we expect in the future?",
+                "Give me a glimpse of what's to come"
+            ],
+            "responses": [
+                "The future is uncertain and can be influenced by our actions today. What aspirations do you have for the future?"
+            ]
+        },
+        {
+            "tag": "travel_destination",
+            "patterns": [
+                "Dream travel destination",
+                "Best place to visit",
+                "Ideal vacation spot",
+                "Where should I travel?",
+                "If you could go anywhere, where would it be?",
+                "Recommend a travel destination",
+                "Tell me about a must-visit place",
+                "I need vacation suggestions"
+            ],
+            "responses": [
+                "If you enjoy nature, consider the serene landscapes of New Zealand. For history buffs, Rome is rich in historical wonders."
+            ]
+        },
+        {
+            "tag": "book_recommendation",
+            "patterns": [
+                "Suggest a good book",
+                "What should I read next?",
+                "Book recommendations",
+                "Any good books lately?",
+                "I'm looking for a captivating story",
+                "Tell me about a great book you know",
+                "Recommend a novel",
+                "I want to start a new book, any suggestions?"
+            ],
+            "responses": [
+                "If you're into science fiction, try 'Dune' by Frank Herbert. For a mystery, 'Gone Girl' by Gillian Flynn is a gripping choice."
+            ]
+        },
+        {
+            "tag": "music_recommendation",
+            "patterns": [
+                "Recommend some music",
+                "What's your favorite music?",
+                "Any good songs?",
+                "I need new music",
+                "Tell me about a great artist",
+                "Suggest a playlist",
+                "What genre do you enjoy?",
+                "I want to discover new music"
+            ],
+            "responses": [
+                "Check out 'Random Access Memories' by Daft Punk for electronic vibes. If you like indie, 'Lungs' by Florence + The Machine is a fantastic album."
+            ]
+        },
+        {
+            "tag": "coldeverest_studio",
+            "patterns": [
+                "Coldeverest Studio",
+                "ColdEverest",
+                "Project BALL"
+            ],
+            "responses": [
+                "ColdEverest Studio is an India based video game development studio developed games with stunning graphics and fun game mechanics. One of their product is Project BALL",
+                "ColdEverest Studio is a video game development studio founded by Rishi Sarkar. ColdEverest Studio previously delivered games with stunning graphics and fun mechanics. Example : Project BALL (Based on RPG mechanics)",
+                "ColdEverest Studio is the developer behind the game Project BALL. It's an RPG style game with stunning graphics and fun gameplay elements."
+            ]
+        },
+        {
+            "tag": "founder_developer_ceo",
+            "patterns": [
+                "Rishi Sarkar",
+                "Rishi",
+                "ColdEverest Studio Founder",
+                "coldeverst founder"
+            ],
+            "responses": [
+                "Rishi Sarkar is the founder of the video game development company named ColdEverst Studio. Born in Kolkata, India in the year 2002. Rishi's completed his bachelor and masters degree from Brainware University."
+            ]
+        },
+        {
+            "tag": "chatbot_developers",
+            "patterns": [
+                "Who made you",
+                "Who is your mother",
+                "Who is your father",
+                "who are your parents",
+                "which developer made you"
+            ],
+            "responses": [
+                "Multiple enetites and developers backed my birth. There is no specific person who made me or can be identified as my mother or father like living beings. I am an AI and have been made artificially intelligent by several contributors. But I can provide some names who have dedicated there time to make me come to life. They are, Rishi Sarkar, Soubhik Sarkar, Rahul Chakraborty, Soumyasree Das and guide like Dr. Kaushik Chanda who provided guidence towards the success of this project."
+            ]
+        },
+        {
+            "tag": "hungry",
+            "patterns": [
+                "I feel hungry",
+                "What should I eat?",
+                "I'm starving",
+                "Any food suggestions?",
+                "Hungry, what's for dinner?",
+                "Can you recommend a good restaurant?",
+                "I need something to eat",
+                "Feeling peckish"
+            ],
+            "responses": [
+                "How about trying a local cuisine you haven't had in a while? If you're up for it, cooking a homemade meal can also be a satisfying option."
+            ]
+        },
+        {
+            "tag": "players",
+            "patterns": [
+                "Who are your favorite players?",
+                "Tell me about sports players",
+                "Any gaming idols?",
+                "Favorite athletes",
+                "Do you follow any players?",
+                "Who's your sports hero?",
+                "Tell me about famous gamers",
+                "Favorite sports stars"
+            ],
+            "responses": [
+                "As a machine learning model, I don't have personal favorites, but I can share information about various players in sports or gaming if you're interested!"
+            ]
+        }
+    ]
+}
